@@ -1,2 +1,2 @@
 # TwitterToolkit
-Twitter Toolkit pro pessoal que usa os slangs (não sei se entra em slang, mas que seja) de *** e pAlAvRaS
+Pra quem usa muito Twitter e os memes de \*\*\*, old que \*\*\* e cOlOcAr AsSiM as palavras, pequeno script pra automatizar isso.
